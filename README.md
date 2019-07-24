@@ -15,5 +15,11 @@ The solution will aim to predict the existence of a pneumothorax in a test image
 SIIM-ACR Pneumothorax Segmentation <br>
 [Identify Pneumothorax disease in chest x-rays](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview/description)
 
+## Dependencies
+- [Numpy](https://www.numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Pyplot](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.html)
+- [Pydicom](https://pydicom.github.io/pydicom/stable/getting_started.html)
+
 ## Reference
 [Pneumothorax](https://en.wikipedia.org/wiki/Pneumothorax)
