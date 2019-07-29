@@ -20,6 +20,7 @@ SIIM-ACR Pneumothorax Segmentation <br>
 - [Pandas](https://pandas.pydata.org/)
 - [Pyplot](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.html)
 - [Pydicom](https://pydicom.github.io/pydicom/stable/getting_started.html)
+- [TQDM](https://tqdm.github.io/)
 
 ## Reference
 [Pneumothorax](https://en.wikipedia.org/wiki/Pneumothorax)
